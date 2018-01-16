@@ -1,6 +1,6 @@
 Here is a template for your page
 
-```html
+```
 <html>
 <body>
 <div id="output">
