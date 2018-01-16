@@ -11,6 +11,10 @@ function print(str) {
 	outputdiv.innerHTML = outputdiv.innerHTML + str + "<br/>";
 }
 </script>
+<script>
+//YOUR CODE GOES HERE
+print("Hello World!");
+</script>
 </body>
 </html>
 ```
