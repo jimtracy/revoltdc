@@ -21,3 +21,22 @@ print("Hello World!");
 </body>
 </html>
 ```
+
+This is a template for an if statement. Things between square brackets are placeholders designed to be replaced by your code.
+
+```
+if([true/false expression]) {
+	[statement one]
+	[statement two]
+	[...]
+} else if([true/false expression]) {
+	[statement one]
+	[statement two]
+	[...]
+} else {
+	[statement one]
+	[statement two]
+	[...]
+	
+}
+
