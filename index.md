@@ -1,6 +1,6 @@
 Here is a template for your page
 
-```javascript
+```
 <html>
 <body>
 <div id="output">
@@ -21,7 +21,7 @@ print("Hello World!");
 </body>
 </html>
 ```
-#Literals
+# Literals
 ```javascript
 1
 true
@@ -30,19 +30,26 @@ false
 3.14
 ```
 
-#Expressions
+# Expressions
 ```javascript
 1+1
 2*2
 (3+2)>(5*3)
 ```
 
-#Statements
+# Statements
 Certain operations don't evaluate to any particular value. These are called statements. They are usually performed for their "side effects". The print function defined in our template is an example. `print("Hello World!");` does produce a value. It is useful because it has the "side effect" of displaying a string on the page.
+
+One common example of a statement is assignment. Assignmengt allow you to put a value in a variable. A variable is like a named bucked used to store a value. True/false, numerical, and string values are copied when they are assigned to variable. Here is an example:
+```javascript
+
+num = 15;
+
+```
 
 A function call can be a statement or an expression, depending on whether the function returns anything. `print("Hello World!")`, for example, is a statement because the print function does not return anything. `Math.round(15.5, 0)`, on the other hand, is an expression becuase it the round function returns a value.
 
-#Talk about simple statements
+# Talk about simple statements
 
 Talk about assignment
 
