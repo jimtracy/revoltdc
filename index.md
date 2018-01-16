@@ -12,8 +12,11 @@ function print(str) {
 }
 </script>
 <script>
-//YOUR CODE GOES HERE
+//YOUR CODE STARTS HERE
+
 print("Hello World!");
+
+//YOUR CODE ENDS HERE
 </script>
 </body>
 </html>
