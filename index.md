@@ -1,6 +1,6 @@
 Here is a template for your page
 
-```
+```javascript
 <html>
 <body>
 <div id="output">
@@ -22,7 +22,7 @@ print("Hello World!");
 </html>
 ```
 #Literals
-```
+```javascript
 1
 true
 false
@@ -31,7 +31,7 @@ false
 ```
 
 #Expressions
-```
+```javascript
 1+1
 2*2
 (3+2)>(5*3)
